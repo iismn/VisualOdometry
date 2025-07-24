@@ -1,5 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&text=VISUAL%20ODOMETRY&fontSize=20)
 
+## <div align=left>DEMO VIDEO</div>
+[![Visual Odometry Demo](https://img.youtube.com/vi/7pJKU2px6bU/maxresdefault.jpg)](https://www.youtube.com/watch?v=7pJKU2px6bU)
+
+**🎥 Click the image above to watch the demo video!**
+
+[![YouTube](https://img.shields.io/badge/YouTube-Demo%20Video-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=7pJKU2px6bU)
+
 ## <div align=left>REPO INFO</div>  
 - **Visual Odometry**: Monocular and Stereo Visual Odometry Implementation
 - **Research Focus**: Real-time Camera-based Vehicle Trajectory Estimation  
@@ -308,9 +315,3 @@ Modify the path in test.py to your image sequences and ground truth trajectories
 ```
 python test.py
 ```
-
-### References
-1. [一个简单的视觉里程计实现 | 冯兵的博客](http://fengbing.net/2015/07/26/%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E8%A7%86%E8%A7%89%E9%87%8C%E7%A8%8B%E8%AE%A1%E5%AE%9E%E7%8E%B01/ )<br>
-2. [Monocular Visual Odometry using OpenCV](http://avisingh599.github.io/vision/monocular-vo/) and its related project report [_Monocular Visual Odometry_](http://avisingh599.github.io/assets/ugp2-report.pdf) | Avi Singh
- 
-Search "cv2.findEssentialMat", "cv2.recoverPose" etc. in github, you'll find more python projects on slam / visual odometry / 3d reconstruction
